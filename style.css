@@ -1,0 +1,71 @@
+body {
+    background-color: lightgray;
+
+}
+
+#hCity {
+    width: 100%;
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+    height: 60px;
+    background-color: black;
+}
+
+#sCity {
+    margin-left: 15px;
+    width: 525px;
+    background-color: #f2f2f2;
+}
+
+#pCity {
+    width: 100%;
+    background-color: white;
+}
+
+#topLoc {
+    margin: 15px;
+    padding-left: 25px;
+    padding-right: 350px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid lightgray;
+    font-size: medium;
+}
+
+#bttmLoc {
+    margin: 15px;
+    padding-left: 25px;
+    padding-right: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid lightgray;
+    color: black;
+    font-size: medium;
+}
+
+.city-btn {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 15px;
+    font-size: medium;
+}
+
+#city-input {
+    padding-left: 10px;
+
+}
+
+#weather_li {
+    color: white;
+    background-color: blue;
+    padding-left: 50px;
+    padding-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 15px;
+    
+}
